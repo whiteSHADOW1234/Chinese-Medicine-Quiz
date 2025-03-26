@@ -30,7 +30,7 @@
     ![v2-0569bb8716d671fe439bbc22802cb2b4_1440w](https://hackmd.io/_uploads/B16INAp31g.jpg)
     ![v2-e584fbb7493255720296a3c69b39f7b4_1440w](https://hackmd.io/_uploads/HJHP4062kx.jpg)
 
-3. 厚朴(<span style="color:red">**大指甲**</span>)
+3. 厚朴(<span style="color:red">**小指甲**</span>)
     - 幹皮：呈<span style="color:red">**捲筒狀或雙捲筒狀**</span>，長 30 ~ 35 cm，厚 2 ~ 7 mm，習稱<span style="color:red">**筒朴**</span>；近根部的幹皮一端展開如喇叭口，習稱<span style="color:red">**靴筒朴**</span>。外表面灰棕色或灰褐色，粗糙，栓皮呈<span style="color:red">**鱗片狀**</span>，較易剝落，有<span style="color:red">**明顯的橢圓形皮孔和縱皺紋**</span>，<span style="color:red">**刮去栓皮者顯黃棕色；內表面紫棕色或深紫褐色**</span>，具細密縱紋，劃之顯油痕。質堅硬，不易折斷。<span style="color:red">**斷面顆粒性**</span>，外層灰棕色，內層紫褐色或棕色，有油性，有的可見多數小亮星。氣香，味辛辣，微苦。
     - 根皮 (根朴) ：為主根及支根的皮，厚 3 ~ 5 mm，形狀不一，有<span style="color:red">**捲筒狀、片塊狀、羊耳狀**</span>等；細小很皮形彎曲如雞腸，習稱<span style="color:red">**雞腸朴**</span>。<span style="color:red">**外表面灰黃色或灰褐色色**</span>。質稍堅硬，較易折斷，斷面纖維性。
     - 枝皮 (枝朴) ：呈<span style="color:red">**單筒狀**</span>，長 10 ~ 20 cm，厚 1 ~ 2 mm。<span style="color:red">**外表面灰褐色，內表面黃棕色**</span>。質脆，易折斷，斷面纖維性。
@@ -105,7 +105,7 @@
     ![download](https://hackmd.io/_uploads/S1hulJA3kl.jpg)
     ![download](https://hackmd.io/_uploads/Hkktl1A2Jl.jpg)
 
-9. 大腹皮  (<span style="color:red">**小指甲**</span>)
+9. 大腹皮  (<span style="color:red">**大指甲**</span>)
     - 檳榔的<span style="color:red">**乾燥果皮**</span>
     - 略呈<span style="color:red">**橢圓形或長卵形瓢狀**</span>，長 4 ~ 7 cm，寬 2 ~ 3.5 cm，厚 0.2 ~ 0.5 cm。 
     - <span style="color:red">**外果皮深棕色至近黑色**</span>，具<span style="color:red">**不規則的縱皺紋及隆起的橫紋**</span>
@@ -478,7 +478,7 @@
     ![download](https://hackmd.io/_uploads/HyMx3-kpkl.jpg)
     ![images](https://hackmd.io/_uploads/S1cghWJT1x.jpg)
 
-36. 茯苓
+36. 茯苓 (**斷面比"山藥"不平**)
     - 常見者為其<span style="color:red">**菌核體**</span>。多為<span style="color:red">**不規則的塊狀，球形、扁形、長圓形或長橢圓形等**</span>，大小不一，小者如拳，大者直徑達 20 ~ 30 cm，或更大。
     - <span style="color:red">**表皮淡灰棕色或黑褐色，呈瘤狀皺縮，內部白色稍帶粉紅，由無數菌絲組成**</span>。
     - 子實體傘形，直徑 0.5 ~ 2 mm，口緣稍有齒；有性世代不易見到，蜂窩狀，通常附菌核的外皮而生，<span style="color:red">**初白色，後逐漸轉變為淡棕色，孔作多角形**</span>，擔子棒狀，<span style="color:red">**擔孢子橢圓形至圓柱形，稍屈曲，一端尖，平滑，無色**</span>。有特殊臭氣。
@@ -540,7 +540,7 @@
     ![download](https://hackmd.io/_uploads/rkkfGex6kg.jpg)
     ![download](https://hackmd.io/_uploads/HyMMGgl61e.jpg)
 
-41. 通草
+41. 通草 (**口哨糖**)
     - 莖賄呈<span style="color:red">**圓柱形**</span>，長 20 ~ 40 cm，直徑 1 ~ 2.5 cm。
     - <span style="color:red">**表面白色或淡黃色，有淺縱溝紋**</span>。
     - 體輕，質鬆軟，稍有彈性，易折斷，<span style="color:red">**斷面平坦，顯銀白色光澤**</span>
@@ -602,7 +602,7 @@
     ![images](https://hackmd.io/_uploads/SJNaDegTJl.jpg)
     ![images](https://hackmd.io/_uploads/SyUpPggayg.jpg)
 
-46. 麥門冬
+46. 麥門冬 (**小綠葡萄乾**)
     - 浙麥冬塊根: <span style="color:red">**紡錘形**</span>，長 1.5 ~ 3.5 cm，中部直徑 3 ~ 7 mm。
         - <span style="color:red">**表面土黃色或黃白色，有較深的不規則細縱紋**</span>，有時一端有細小中柱外露。
         - 質韌，<span style="color:red">**斷面類白色，中央有細小圓形中柱**</span>，新鮮時可抽出。
