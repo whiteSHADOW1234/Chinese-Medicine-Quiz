@@ -171,7 +171,7 @@
     ![download](https://hackmd.io/_uploads/r1lNctA3yg.jpg)
     ![images](https://hackmd.io/_uploads/HyS4cKRhkl.jpg)
     ![images](https://hackmd.io/_uploads/HyiN9t02Jx.jpg)
-    
+
 15. 川芎 (ㄑㄩㄥ)
     - 為<span style="color:red">**不規則結節狀拳形團塊**</span>，直徑2~7cm。
     - <span style="color:red">**表面黃褐色，粗糙皺縮**</span>，有多數平行隆起的輪節，頂端有凹陷的類圓形莖痕，下側及輪節上有<span style="color:red">**多數小瘤狀根痕**</span>。
@@ -603,7 +603,7 @@
     ![images](https://hackmd.io/_uploads/SyUpPggayg.jpg)
 
 46. 麥門冬
-    - 浙麥冬塊根: ==紡錘形，長 1.5 ~ 3.5 cm，中部直徑 3 ~ 7 mm。
+    - 浙麥冬塊根: <span style="color:red">**紡錘形**</span>，長 1.5 ~ 3.5 cm，中部直徑 3 ~ 7 mm。
         - <span style="color:red">**表面土黃色或黃白色，有較深的不規則細縱紋**</span>，有時一端有細小中柱外露。
         - 質韌，<span style="color:red">**斷面類白色，中央有細小圓形中柱**</span>，新鮮時可抽出。
         - 氣微香，味微甘、澀，嚼之微有粘性。
