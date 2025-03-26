@@ -500,7 +500,7 @@
     ![download](https://hackmd.io/_uploads/B1dMpZk6Jl.jpg)
     ![download](https://hackmd.io/_uploads/rJ2faZJ61x.jpg)
 
-38. 蒼朮
+38. 蒼朮 (**小 & 不規則 & 鬚根**)
     - 呈<span style="color:red">**不規則連珠狀或結節狀圓柱形，略彎曲，偶有分枝**</span>，長 3 ~ 10 cm，直徑 1 ~ 2 cm。
     - <span style="color:red">**表面灰棕色，有皺紋、橫曲紋及殘留鬚根**</span>，頂端具莖痕或殘留莖基。
     - 質堅實，<span style="color:red">**斷面黃白色或灰白色，散有多數橙黃色或棕紅色油室**</span>，暴露稍久，可析出<span style="color:red">**白色細針狀結晶**</span>。氣香特異，味微甘、辛、苦。
@@ -616,7 +616,7 @@
     ![images](https://hackmd.io/_uploads/SkD_Oex6yl.jpg)
     ![images](https://hackmd.io/_uploads/rycOuelp1l.jpg)
 
-47. 黃岑
+47. 黃芩
     - 該品呈<span style="color:red">**圓錐形，扭曲**</span>，長 8 ~ 25 cm，直徑 1 ~ 3 cm。
     - <span style="color:red">**表面棕黃色或深黃色，有稀疏的疣狀細根痕**</span>，<span style="color:red">**上部較粗糙**</span>，有扭曲的縱皺或不規則的網紋，下部有順紋和細皺。
     - 質硬而脆，易折斷，<span style="color:red">**斷面黃色，中間紅棕色**</span>，通稱子芩，以清火養陰為主
