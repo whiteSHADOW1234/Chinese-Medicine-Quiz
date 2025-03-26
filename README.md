@@ -27,21 +27,21 @@
     ![v2-0569bb8716d671fe439bbc22802cb2b4_1440w](https://hackmd.io/_uploads/B16INAp31g.jpg)
     ![v2-e584fbb7493255720296a3c69b39f7b4_1440w](https://hackmd.io/_uploads/HJHP4062kx.jpg)
 3. 厚朴(<span style="color:red">**大指甲**</span>)
-- 幹皮：呈<span style="color:red">**捲筒狀或雙捲筒狀**</span>，長 30 ~ 35 cm，厚 2 ~ 7 mm，習稱<span style="color:red">**筒朴**</span>；近根部的幹皮一端展開如喇叭口，習稱<span style="color:red">**靴筒朴**</span>。外表面灰棕色或灰褐色，粗糙，栓皮呈<span style="color:red">**鱗片狀**</span>，較易剝落，有<span style="color:red">**明顯的橢圓形皮孔和縱皺紋**</span>，<span style="color:red">**刮去栓皮者顯黃棕色；內表面紫棕色或深紫褐色**</span>，具細密縱紋，劃之顯油痕。質堅硬，不易折斷。<span style="color:red">**斷面顆粒性**</span>，外層灰棕色，內層紫褐色或棕色，有油性，有的可見多數小亮星。氣香，味辛辣，微苦。
-- 根皮 (根朴) ：為主根及支根的皮，厚 3 ~ 5 mm，形狀不一，有<span style="color:red">**捲筒狀、片塊狀、羊耳狀**</span>等；細小很皮形彎曲如雞腸，習稱<span style="color:red">**雞腸朴**</span>。<span style="color:red">**外表面灰黃色或灰褐色色**</span>。質稍堅硬，較易折斷，斷面纖維性。
-- 枝皮 (枝朴) ：呈<span style="color:red">**單筒狀**</span>，長 10 ~ 20 cm，厚 1 ~ 2 mm。<span style="color:red">**外表面灰褐色，內表面黃棕色**</span>。質脆，易折斷，斷面纖維性。
+    - 幹皮：呈<span style="color:red">**捲筒狀或雙捲筒狀**</span>，長 30 ~ 35 cm，厚 2 ~ 7 mm，習稱<span style="color:red">**筒朴**</span>；近根部的幹皮一端展開如喇叭口，習稱<span style="color:red">**靴筒朴**</span>。外表面灰棕色或灰褐色，粗糙，栓皮呈<span style="color:red">**鱗片狀**</span>，較易剝落，有<span style="color:red">**明顯的橢圓形皮孔和縱皺紋**</span>，<span style="color:red">**刮去栓皮者顯黃棕色；內表面紫棕色或深紫褐色**</span>，具細密縱紋，劃之顯油痕。質堅硬，不易折斷。<span style="color:red">**斷面顆粒性**</span>，外層灰棕色，內層紫褐色或棕色，有油性，有的可見多數小亮星。氣香，味辛辣，微苦。
+    - 根皮 (根朴) ：為主根及支根的皮，厚 3 ~ 5 mm，形狀不一，有<span style="color:red">**捲筒狀、片塊狀、羊耳狀**</span>等；細小很皮形彎曲如雞腸，習稱<span style="color:red">**雞腸朴**</span>。<span style="color:red">**外表面灰黃色或灰褐色色**</span>。質稍堅硬，較易折斷，斷面纖維性。
+    - 枝皮 (枝朴) ：呈<span style="color:red">**單筒狀**</span>，長 10 ~ 20 cm，厚 1 ~ 2 mm。<span style="color:red">**外表面灰褐色，內表面黃棕色**</span>。質脆，易折斷，斷面纖維性。
     ![download](https://hackmd.io/_uploads/ry_kUA62yx.jpg)
     ![images](https://hackmd.io/_uploads/r1RJ8Rp3yl.jpg)
     ![download](https://hackmd.io/_uploads/SkDWI0a3ke.jpg)
 
 4. 吳茱萸
-- 果實呈<span style="color:red">**五角狀扁球形**</span>
-- 直徑 2 ~ 5 mm
-- <span style="color:red">**表面暗黃綠色至褐色，粗糙**</span>，有點狀突起或凹下的油點。
-- <span style="color:red">**頂端有五角星狀的裂隙**</span>
-- <span style="color:red">**基部殘留被有黃色茸毛的果梗**</span>
-- 質硬而脆。
-- 氣芳香濃郁，味辛辣而苦。
+    - 果實呈<span style="color:red">**五角狀扁球形**</span>
+    - 直徑 2 ~ 5 mm
+    - <span style="color:red">**表面暗黃綠色至褐色，粗糙**</span>，有點狀突起或凹下的油點。
+    - <span style="color:red">**頂端有五角星狀的裂隙**</span>
+    - <span style="color:red">**基部殘留被有黃色茸毛的果梗**</span>
+    - 質硬而脆。
+    - 氣芳香濃郁，味辛辣而苦。
     ![B00212](https://hackmd.io/_uploads/rkyi_Rphke.jpg)
     ![519635](https://hackmd.io/_uploads/B1Rsu0a2Jl.jpg)
     ![images](https://hackmd.io/_uploads/B1w2OAT2Jg.jpg)
@@ -171,13 +171,13 @@
     ![download](https://hackmd.io/_uploads/rJwSTFR21l.jpg)
 
 17. 木賊
-    - 	<span style="color:red">**莖呈長管狀，不分枝**</span>。長 40 ~ 60 cm，直徑約 6 mm。
-    - 	<span style="color:red">**表面灰綠色或黃綠色，有 18 ~ 30 條細縱縱棱，平直排列，棱脊上有2行細小的疣狀突起，觸之稍掛手**</span>。
-    - 	節上著生鱗處狀合生的筒狀葉鞘，葉鞘基部和先端具 2 圈棕黑色較寬的環。
-    - 	鞘片背面有 2 條棱脊及 1 條淺溝。
-    - 	質脆，易折斷，<span style="color:red">**斷面中空**</span>。
-    - 	邊緣有 20 ~ 30 個小空腔，排列成環狀，內有白色或淺綠色的薄瓤。
-    - 	氣微，味微澀，嚼之有沙粒感。
+    - <span style="color:red">**莖呈長管狀，不分枝**</span>。長 40 ~ 60 cm，直徑約 6 mm。
+    - <span style="color:red">**表面灰綠色或黃綠色，有 18 ~ 30 條細縱縱棱，平直排列，棱脊上有2行細小的疣狀突起，觸之稍掛手**</span>。
+    - 節上著生鱗處狀合生的筒狀葉鞘，葉鞘基部和先端具 2 圈棕黑色較寬的環。
+    - 鞘片背面有 2 條棱脊及 1 條淺溝。
+    - 質脆，易折斷，<span style="color:red">**斷面中空**</span>。
+    - 邊緣有 20 ~ 30 個小空腔，排列成環狀，內有白色或淺綠色的薄瓤。
+    - 氣微，味微澀，嚼之有沙粒感。
     ![download](https://hackmd.io/_uploads/Sk1-G9CnJg.jpg)
     ![download](https://hackmd.io/_uploads/BJjWz9C21e.jpg)
     ![download](https://hackmd.io/_uploads/H1pbf9R3Jx.jpg)
