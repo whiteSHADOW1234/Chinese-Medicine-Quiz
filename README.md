@@ -4,6 +4,10 @@
 - [常見藥材](#常見藥材)
 
 ## 藥方符號
+![image](https://github.com/user-attachments/assets/554e19af-6c3e-429f-a3dd-54130647471c)
+![image](https://github.com/user-attachments/assets/40483af7-f1ea-49c9-bc5c-5f69c22712e3)
+![image](https://github.com/user-attachments/assets/220b5145-6b73-4999-a3da-b746dd5a6eb2)
+
 - 卜=分
 - 不=錢
 - 刃=兩
