@@ -1,4 +1,16 @@
 # Chinese Medicines' Cheetsheet
+## Content
+- [藥方符號](#藥方符號)
+- [常見藥材](#常見藥材)
+
+## 藥方符號
+- 卜=分
+- 不=錢
+- 刃=兩
+- ㄟ=斤
+
+
+## 常見藥材
 1. 丹蔘
     - 根呈<span style="color:red">**圓柱形**</span>，稍彎曲
     - 表面呈<span style="color:red">**磚紅色**</span>，<span style="color:red">**粗糙**</span>
