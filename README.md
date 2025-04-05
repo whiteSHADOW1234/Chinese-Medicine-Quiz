@@ -4,8 +4,11 @@
 - [常見藥材](#常見藥材)
 
 ## 藥方符號
+
 ![image](https://github.com/user-attachments/assets/6cad3967-3060-4392-bcfe-2d813817c7a4)
+
 ![original](https://github.com/user-attachments/assets/d9a9293b-1e14-4b8b-9d1d-81579bd48863)
+
 ![image](https://github.com/user-attachments/assets/220b5145-6b73-4999-a3da-b746dd5a6eb2)
 
 - 卜=分
