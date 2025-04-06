@@ -5,9 +5,9 @@
 - [易混淆藥材](#易混淆藥材)
 
 ## 藥方符號
-![original](album\428407891-6cad3967-3060-4392-bcfe-2d813817c7a4.png)
-![image](album\428407967-d9a9293b-1e14-4b8b-9d1d-81579bd48863.png)
-![image](album\427951973-220b5145-6b73-4999-a3da-b746dd5a6eb2.png)
+![original](album/428407891-6cad3967-3060-4392-bcfe-2d813817c7a4.png)
+![image](album/428407967-d9a9293b-1e14-4b8b-9d1d-81579bd48863.png)
+![image](album/427951973-220b5145-6b73-4999-a3da-b746dd5a6eb2.png)
 
 - 卜=分
 - 不=錢
