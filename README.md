@@ -2,11 +2,12 @@
 ## Content
 - [藥方符號](#藥方符號)
 - [常見藥材](#常見藥材)
+- [易混淆藥材](#易混淆藥材)
 
 ## 藥方符號
-![image](https://github.com/user-attachments/assets/6cad3967-3060-4392-bcfe-2d813817c7a4)
-![original](https://github.com/user-attachments/assets/d9a9293b-1e14-4b8b-9d1d-81579bd48863)
-![image](https://github.com/user-attachments/assets/220b5145-6b73-4999-a3da-b746dd5a6eb2)
+![original](album\428407891-6cad3967-3060-4392-bcfe-2d813817c7a4.png)
+![image](album\428407967-d9a9293b-1e14-4b8b-9d1d-81579bd48863.png)
+![image](album\427951973-220b5145-6b73-4999-a3da-b746dd5a6eb2.png)
 
 - 卜=分
 - 不=錢
@@ -693,3 +694,7 @@
     ![download](https://hackmd.io/_uploads/SJRHilgaJl.jpg)
     ![images](https://hackmd.io/_uploads/H1mUjxeakg.jpg)
     ![images](https://hackmd.io/_uploads/Hyr8ieea1e.jpg)
+
+
+## 易混淆藥材
+![images](easy_misclassify\20250327_044127.png)
