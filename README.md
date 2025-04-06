@@ -231,7 +231,7 @@
     ![download](https://hackmd.io/_uploads/ryizM9C2yg.jpg)
     ![images](https://hackmd.io/_uploads/BJ77z5A2Jg.jpg)
 
-18. 木香 (**表皮深褐色 & 內部坑坑巴巴**)
+18. #### 木香 (**表皮深褐色 & 內部坑坑巴巴**)
     - <span style="color:red">**根圓柱形、平圓柱形**</span>，長 5 ~ 15 cm，直徑 0.5 ~ 5.5 cm。
     - <span style="color:red">**表面黃棕色、灰褐色或棕褐色**</span>，栓皮大多已除去，有明縱溝及側根痕，有時可見<span style="color:red">**網狀紋理**</span>。
     - 質堅硬，難折斷，<span style="color:red">**斷面稍平坦，灰黃色、灰褐色或棕褐色，散有深褐色油室小點，形成層環棕色，有放射狀紋理，老根中央多枯朽**</span>。
@@ -333,7 +333,7 @@
     ![images](https://hackmd.io/_uploads/ryeOnqA2yg.jpg)
     ![images](https://hackmd.io/_uploads/rJY_n9031l.jpg)
 
-26. 獨活 (**表皮淺咖啡色 & 內部坑坑巴巴**)
+26. #### 獨活 (**表皮淺咖啡色 & 內部坑坑巴巴**)
     - <span style="color:red">**根頭及主根粗短，略呈圓柱形**</span>，長 1.5 ~ 4 cm，直徑 1.5 ~ 3.5 cm，<span style="color:red">**下部有數條彎曲的支根**</span>，長 12 ~ 30 cm，直徑 0.5 ~ 1.5 cm。
     - <span style="color:red">**表面粗糙，灰棕色，具不規則縱皺紋及橫裂紋**</span>，並有多數橫長皮孔及細根痕
     - <span style="color:red">**根頭部有環紋**</span>，具多殖環狀葉柄痕，中內為凹陷的莖痕。
@@ -463,7 +463,7 @@
     ![download](https://hackmd.io/_uploads/SyBDDsA2yx.jpg)
     ![download](https://hackmd.io/_uploads/HJqDws0nJl.jpg)
 
-34. 羌活 (**鬚根痕**)
+34. #### 羌活 (**鬚根痕**)
     - 蠶羌：又名：螺絲羌。為<span style="color:red">**乾燥的根莖部，形態似蠶**</span>。呈<span style="color:red">**圓柱狀或略彎曲**</span>，長約 4 ~ 10 cm，直徑約 1 ~ 2 cm。頂端有莖葉殘基。
         - <span style="color:red">**表面棕褐色，有多數緊密而隆起的環節**</span>。節上密生疣狀突起的鬚根痕。
         - 質輕鬆易折斷，<span style="color:red">**斷面不齊，有明顯的菊花紋和多數裂隙，皮部棕紅色；木質部淡黃色，中央有黃白色髓，均有朱砂點 (油管)**</span> 。具特殊香氣，味微苦而麻。
@@ -517,7 +517,7 @@
     ![download](https://hackmd.io/_uploads/B1dMpZk6Jl.jpg)
     ![download](https://hackmd.io/_uploads/rJ2faZJ61x.jpg)
 
-38. 蒼朮 (**小 & 不規則 & 鬚根**)
+38. #### 蒼朮 (**小 & 不規則 & 鬚根**)
     - 呈<span style="color:red">**不規則連珠狀或結節狀圓柱形，略彎曲，偶有分枝**</span>，長 3 ~ 10 cm，直徑 1 ~ 2 cm。
     - <span style="color:red">**表面灰棕色，有皺紋、橫曲紋及殘留鬚根**</span>，頂端具莖痕或殘留莖基。
     - 質堅實，<span style="color:red">**斷面黃白色或灰白色，散有多數橙黃色或棕紅色油室**</span>，暴露稍久，可析出<span style="color:red">**白色細針狀結晶**</span>。氣香特異，味微甘、辛、苦。
@@ -633,7 +633,7 @@
     ![images](https://hackmd.io/_uploads/SkD_Oex6yl.jpg)
     ![images](https://hackmd.io/_uploads/rycOuelp1l.jpg)
 
-47. 黃芩 (**小 & 黃 & 木片**)
+47. #### 黃芩 (**小 & 黃 & 木片**)
     - 該品呈<span style="color:red">**圓錐形，扭曲**</span>，長 8 ~ 25 cm，直徑 1 ~ 3 cm。
     - <span style="color:red">**表面棕黃色或深黃色，有稀疏的疣狀細根痕**</span>，<span style="color:red">**上部較粗糙**</span>，有扭曲的縱皺或不規則的網紋，下部有順紋和細皺。
     - 質硬而脆，易折斷，<span style="color:red">**斷面黃色，中間紅棕色**</span>，通稱子芩，以清火養陰為主
@@ -697,4 +697,9 @@
 
 
 ## 易混淆藥材
-![images](easy_misclassify\20250327_044127.png)
+![images](easy_misclassify/20250327_044127.png)
+- [木香](#木香-表皮深褐色--內部坑坑巴巴)
+- [獨活](#獨活-表皮淺咖啡色--內部坑坑巴巴)
+- [黃芩](#黃芩-小--黃--木片)
+- [蒼朮](#蒼朮-小--不規則--鬚根)
+- [羌活](#羌活-鬚根痕)
