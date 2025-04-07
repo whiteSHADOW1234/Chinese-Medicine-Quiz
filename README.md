@@ -697,6 +697,8 @@
 
 
 ## 易混淆藥材
+![images](easy_misclassify\20250327_033547.png)
+![images](easy_misclassify\20250327_034357.png)
 ![images](easy_misclassify/20250327_044127.png)
 - [木香](#木香-表皮深褐色--內部坑坑巴巴)
 - [獨活](#獨活-表皮淺咖啡色--內部坑坑巴巴)
