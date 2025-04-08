@@ -110,7 +110,7 @@
     ![download](https://hackmd.io/_uploads/ryV4yy0hJe.jpg)
 
 8. 地龍
-    - 呈<span style="color:red">**長條狀薄片**</span>，<span style="color:red">**彎曲**</span>，<span style="color:red">**邊緣略卷**</span>，長15~20cm，寬1~2cm。
+    - 呈<span style="color:red">**長條狀薄片**</span>，<span style="color:red">**彎曲**</span>，<span style="color:red">**邊緣略卷**</span>，長15 ~ 20cm，寬1 ~ 2cm。
     - <span style="color:red">**全體具環節，背部棕褐色至紫灰色，腹部淺黃棕色**</span>；第14~16環節為生殖帶，習稱“白頸”，較光亮。
     - 體前端稍尖，尾端鈍圓，剛毛圈粗糙而硬，色稍淺。
     - 雄生殖孔在第18節腹側剛毛圈一小孔突上，外緣有數環繞的淺皮褶，內側剛毛圈隆起，前面兩邊有橫排 (一排或二排) 小乳突，每邊10~20個不等。
