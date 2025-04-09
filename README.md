@@ -282,11 +282,11 @@
     ![download](https://hackmd.io/_uploads/Hy9sIcA21g.jpg)
     ![download](https://hackmd.io/_uploads/Syaj890hJg.jpg)
 
-22. 火麻仁
+22. 火麻仁 (卵圓形、小、表面灰綠色或灰黃色)
     - 本品呈<span style="color:red">**卵圓形**</span>，長 4 ~ 5.5 mm，直徑 2.5 ~ 4 mm。
     - <span style="color:red">**表面灰綠色或灰黃色，有微細的白色或棕色網紋，兩邊有棱，頂端略尖**</span>，基部有1圓形果梗痕。
     - <span style="color:red">**果皮薄而脆，易破碎**</span>。
-    - <span style="color:red">**種皮綠色**</span>，子葉2，乳白色，<span style="color:red">**富油性**</span>。氣微，味淡。
+    - <span style="color:red">**種皮綠色**</span>，子葉 2，乳白色，<span style="color:red">**富油性**</span>。氣微，味淡。
 
     ![B00244](https://hackmd.io/_uploads/rJlTw5AhJe.jpg)
     ![download](https://hackmd.io/_uploads/rkSaD503Jl.jpg)
