@@ -215,9 +215,9 @@
     ![download](https://hackmd.io/_uploads/rkEVpYA3yg.jpg)
     ![download](https://hackmd.io/_uploads/rJwSTFR21l.jpg)
 
-17. 木賊
+17. 木賊 (表面灰綠色或黃綠色的長段、質輕、撞擊聲清脆、觸之稍掛手)
     - <span style="color:red">**莖呈長管狀，不分枝**</span>。長 40 ~ 60 cm，直徑約 6 mm。
-    - <span style="color:red">**表面灰綠色或黃綠色，有 18 ~ 30 條細縱縱棱，平直排列，棱脊上有2行細小的疣狀突起，觸之稍掛手**</span>。
+    - <span style="color:red">**表面灰綠色或黃綠色，有 18 ~ 30 條細縱縱棱，平直排列，棱脊上有 2 行細小的疣狀突起，觸之稍掛手**</span>。
     - 節上著生鱗處狀合生的筒狀葉鞘，葉鞘基部和先端具 2 圈棕黑色較寬的環。
     - 鞘片背面有 2 條棱脊及 1 條淺溝。
     - 質脆，易折斷，<span style="color:red">**斷面中空**</span>。
