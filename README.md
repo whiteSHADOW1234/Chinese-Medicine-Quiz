@@ -464,7 +464,7 @@
     ![download](https://hackmd.io/_uploads/SyBDDsA2yx.jpg)
     ![download](https://hackmd.io/_uploads/HJqDws0nJl.jpg)
 
-34. #### 羌活 (**鬚根痕**)
+34. #### 羌活 (**鬚根痕**、聞之有清新感、表面棕褐色)
     - 蠶羌：又名：螺絲羌。為<span style="color:red">**乾燥的根莖部，形態似蠶**</span>。呈<span style="color:red">**圓柱狀或略彎曲**</span>，長約 4 ~ 10 cm，直徑約 1 ~ 2 cm。頂端有莖葉殘基。
         - <span style="color:red">**表面棕褐色，有多數緊密而隆起的環節**</span>。節上密生疣狀突起的鬚根痕。
         - 質輕鬆易折斷，<span style="color:red">**斷面不齊，有明顯的菊花紋和多數裂隙，皮部棕紅色；木質部淡黃色，中央有黃白色髓，均有朱砂點 (油管)**</span> 。具特殊香氣，味微苦而麻。
@@ -482,7 +482,7 @@
     ![images](https://hackmd.io/_uploads/ryhycoRnJl.jpg)
     ![images](https://hackmd.io/_uploads/ryBgqjC3Jg.jpg)
 
-35. 芡實
+35. 芡實 (外紅內白、粉性)
     - <span style="color:red">**類球形，多為破粒**</span>。
     - <span style="color:red">**表面有棕紅色內種皮，一端黃自色，約占全體1/3**</span>、有凹點狀的種臍痕，<span style="color:red">**除去內種皮顯白色**</span>。
     - 質較硬，斷面白色，粉性。氣微，味淡。
@@ -518,7 +518,7 @@
     ![download](https://hackmd.io/_uploads/B1dMpZk6Jl.jpg)
     ![download](https://hackmd.io/_uploads/rJ2faZJ61x.jpg)
 
-38. #### 蒼朮 (**小 & 不規則 & 鬚根**)
+38. #### 蒼朮 (**小 & 連節狀 & 鬚根**)
     - 呈<span style="color:red">**不規則連珠狀或結節狀圓柱形，略彎曲，偶有分枝**</span>，長 3 ~ 10 cm，直徑 1 ~ 2 cm。
     - <span style="color:red">**表面灰棕色，有皺紋、橫曲紋及殘留鬚根**</span>，頂端具莖痕或殘留莖基。
     - 質堅實，<span style="color:red">**斷面黃白色或灰白色，散有多數橙黃色或棕紅色油室**</span>，暴露稍久，可析出<span style="color:red">**白色細針狀結晶**</span>。氣香特異，味微甘、辛、苦。
@@ -533,7 +533,7 @@
     ![images](https://hackmd.io/_uploads/BJQtTbJ6ke.jpg)
     ![download](https://hackmd.io/_uploads/rk3Fa-1pyl.jpg)
 
-39. 赤芍
+39. 赤芍 (表面棕褐色 & 粗糙、斷面粉白色或粉紅色)
     - 該品呈<span style="color:red">**圓柱形，稍彎曲**</span>，長 5 ~ 40 cm，直徑 0.5 ~ 3 cm。
     - <span style="color:red">**表面棕褐色，粗糙，有縱溝及皺紋，並有鬚根痕及橫向凸起的皮孔**</span>，有的外皮易脫落。
     - 質硬而脆，易折斷，<span style="color:red">**斷面粉白色或粉紅色，皮部窄，木部放射狀紋理明顯，有的有裂隙**</span>。
@@ -558,7 +558,7 @@
     ![download](https://hackmd.io/_uploads/rkkfGex6kg.jpg)
     ![download](https://hackmd.io/_uploads/HyMMGgl61e.jpg)
 
-41. 通草 (**口哨糖**)
+41. 通草 (**口哨糖**、無臭無味、中間有半透明的薄膜)
     - 莖賄呈<span style="color:red">**圓柱形**</span>，長 20 ~ 40 cm，直徑 1 ~ 2.5 cm。
     - <span style="color:red">**表面白色或淡黃色，有淺縱溝紋**</span>。
     - 體輕，質鬆軟，稍有彈性，易折斷，<span style="color:red">**斷面平坦，顯銀白色光澤**</span>
@@ -571,7 +571,7 @@
     ![images](https://hackmd.io/_uploads/BJYcGeepJl.jpg)
     ![images](https://hackmd.io/_uploads/rka9MggpJg.jpg)
 
-42. 酸棗仁
+42. 酸棗仁 (紫褐色 & 光澤平滑的扁圓形種子)
     - <span style="color:red">**乾燥成熟的種子呈扁圓形或橢圓形，表面紫紅色或紫褐色，平滑有光澤**</span>，有的有裂紋。
     - 有的<span style="color:red">**兩面均承圓隆狀突起，有的一面較平州**</span>。<span style="color:red">**中間或有1條隆起的縱線紋**</span>；另一面稍突起。
     - <span style="color:red">**一端凹陷，可見線形種臍**</span>，另端有細小突起的合點。
@@ -583,7 +583,7 @@
     ![download](https://hackmd.io/_uploads/r1NYmxx61g.jpg)
     ![download](https://hackmd.io/_uploads/H1vKQlgpyg.jpg)
 
-43. 金銀花
+43. 金銀花 (表面黃白色或綠白色，密被短柔毛)
     - 本品呈<span style="color:red">**棒狀，上粗下細，略彎曲**</span>，長 2 ~ 3 cm，上部直徑 3 mm，下部直徑 1.5 mm
     - <span style="color:red">**表面黃白色或綠白色，密被短柔毛**</span>。偶見葉狀苞片，花萼綠色、先端 5 裂，裂片有毛，長約 2 mm，開放者花冠筒狀，先端二唇形，雄蕊 5 附於筒壁，黃色；雌蕊 1 個，子房無毛，氣清香，味淡微苦。
 
@@ -607,7 +607,7 @@
     ![download](https://hackmd.io/_uploads/HJ9Mwee6yl.jpg)
     ![images](https://hackmd.io/_uploads/HJ-mvxe6Jx.jpg)
 
-45. 雞血藤
+45. 雞血藤 (切片紅棕色，有黑棕色的輪狀環)
     - 該品為<span style="color:red">**橢圓形、長矩圓形或不規則的斜切片**</span>，厚 0.3 ~ 1 cm。
     - <span style="color:red">**栓皮灰棕色，有的可見灰白色斑，栓皮脫落處現紅棕色**</span>。
     - <span style="color:red">**切面木部紅棕色或棕色，導管孔多數**</span>；
@@ -634,7 +634,7 @@
     ![images](https://hackmd.io/_uploads/SkD_Oex6yl.jpg)
     ![images](https://hackmd.io/_uploads/rycOuelp1l.jpg)
 
-47. #### 黃芩 (**小 & 黃 & 木片**)
+47. #### 黃芩 (**小 & 外圈黑土黃，內亮土黃**)
     - 該品呈<span style="color:red">**圓錐形，扭曲**</span>，長 8 ~ 25 cm，直徑 1 ~ 3 cm。
     - <span style="color:red">**表面棕黃色或深黃色，有稀疏的疣狀細根痕**</span>，<span style="color:red">**上部較粗糙**</span>，有扭曲的縱皺或不規則的網紋，下部有順紋和細皺。
     - 質硬而脆，易折斷，<span style="color:red">**斷面黃色，中間紅棕色**</span>，通稱子芩，以清火養陰為主
@@ -648,7 +648,7 @@
     ![images](https://hackmd.io/_uploads/rJczKelake.jpg)
     ![images](https://hackmd.io/_uploads/S1bmYxeT1g.jpg)
 
-48. 黃柏
+48. 黃柏 (黃褐色、板片狀)
     - 呈<span style="color:red">**板片狀或淺槽狀，長寬不一**</span>，厚 3 ~ 6 mm。
     - <span style="color:red">**外表面黃褐色或黃棕色，平坦或具縱溝紋**</span>，有的可見皮孔痕及殘存的灰褐色粗皮。
     - <span style="color:red">**內表面暗黃色或淡棕色，具細密的縱棱紋**</span>。
@@ -661,7 +661,7 @@
     ![download](https://hackmd.io/_uploads/H1vW5ggpJx.jpg)
     ![images](https://hackmd.io/_uploads/SJpz5gl6ye.jpg)
 
-49. 黃耆
+49. 黃耆 (皮部黃白 & 較疏鬆、豆腥味)
     - 直根<span style="color:red">**圓柱形、有的有分枝**</span>，上端較粗，長 30 ~ 90 釐米，直徑 1 ~ 3.5 釐米
     - <span style="color:red">**表面縱皺色淡棕黃色或淡棕褐色**</span>，有不整齊的縱皺紋或縱溝質，<span style="color:red">**硬而韌有粉性**</span>，<span style="color:red">**皮部黃白較疏鬆**</span>；<span style="color:red">**木部菊花紋理狀**</span>，氣似豆腥味微甜。
     - <span style="color:red">**老根中心偶有枯朽狀**</span>，黑褐色或呈空洞。氣微，味微甜，嚼之微有豆腥味。
@@ -674,7 +674,7 @@
     ![download](https://hackmd.io/_uploads/SJM9qxgpyx.jpg)
     ![images](https://hackmd.io/_uploads/H15cclepyg.jpg)
 
-50. 黃蓮
+50. 黃蓮 (內部鮮黃色或橙黃色、形如雞爪)
     - 味連：
         - 藥材多數<span style="color:red">**聚集成簇，常常彎曲，形如雞爪**</span>，其單枝根莖長 3 ~ 6 cm，直徑 0.3 ~ 0.8 cm。
         - <span style="color:red">**表面粗糙，有不規則結節狀隆起**</span>，有鬚根及鬚根殘基。
