@@ -245,7 +245,7 @@
     ![download](https://hackmd.io/_uploads/H1rg79C21l.jpg)
     ![images](https://hackmd.io/_uploads/SJKlmcCnye.jpg)
 
-19. 杜仲
+19. 杜仲 (黑色乾燥樹皮、斷面有銀白色絲狀物相連)
     - 乾燥樹皮，為<span style="color:red">**平坦的板片狀或卷片狀**</span>，<span style="color:red">**大小厚薄不一**</span>，一般厚約 3 ~ 10 mm，長約 40 ~ 100 cm。
     - <span style="color:red">**外表面灰棕色，粗糙**</span>，有<span style="color:red">**不規則縱裂槽紋及斜方形橫裂皮孔**</span>，有時可見<span style="color:red">**淡灰色地衣斑**</span>。
     - 但商品多已削去部分糙皮，故<span style="color:red">**外表面淡棕色，較平滑。內表面光滑，暗紫色**</span>。
