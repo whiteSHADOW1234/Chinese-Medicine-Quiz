@@ -232,7 +232,7 @@
     ![download](https://hackmd.io/_uploads/ryizM9C2yg.jpg)
     ![images](https://hackmd.io/_uploads/BJ77z5A2Jg.jpg)
 
-18. #### 木香 (**表皮深褐色 & 內部坑坑巴巴**、氣芳香濃烈)
+18. #### 木香 (**表皮深褐黑色 & 內部坑坑巴巴**、氣芳香濃烈、斷面乾枯朽)
     - <span style="color:red">**根圓柱形、平圓柱形**</span>，長 5 ~ 15 cm，直徑 0.5 ~ 5.5 cm。
     - <span style="color:red">**表面黃棕色、灰褐色或棕褐色**</span>，栓皮大多已除去，有明縱溝及側根痕，有時可見<span style="color:red">**網狀紋理**</span>。
     - 質堅硬，難折斷，<span style="color:red">**斷面稍平坦，灰黃色、灰褐色或棕褐色，散有深褐色油室小點，形成層環棕色，有放射狀紋理，老根中央多枯朽**</span>。
@@ -334,7 +334,7 @@
     ![images](https://hackmd.io/_uploads/ryeOnqA2yg.jpg)
     ![images](https://hackmd.io/_uploads/rJY_n9031l.jpg)
 
-26. #### 獨活 (**表皮淺咖啡色 & 內部坑坑巴巴**)
+26. #### 獨活 (**表皮淺咖啡黃色 & 內部坑坑巴巴**、味道濃烈、)
     - <span style="color:red">**根頭及主根粗短，略呈圓柱形**</span>，長 1.5 ~ 4 cm，直徑 1.5 ~ 3.5 cm，<span style="color:red">**下部有數條彎曲的支根**</span>，長 12 ~ 30 cm，直徑 0.5 ~ 1.5 cm。
     - <span style="color:red">**表面粗糙，灰棕色，具不規則縱皺紋及橫裂紋**</span>，並有多數橫長皮孔及細根痕
     - <span style="color:red">**根頭部有環紋**</span>，具多殖環狀葉柄痕，中內為凹陷的莖痕。
