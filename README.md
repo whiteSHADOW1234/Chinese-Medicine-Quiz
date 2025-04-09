@@ -16,7 +16,7 @@
 
 
 ## 常見藥材
-1. 丹蔘
+1. 丹蔘 (放射狀的灰黃色或黃白色木質部導管束)
     - 根呈<span style="color:red">**圓柱形**</span>，稍彎曲
     - 表面呈<span style="color:red">**磚紅色**</span>，<span style="color:red">**粗糙**</span>
     - 具多數縱溝或皺紋，有鬚根痕
@@ -35,9 +35,9 @@
     ![丹参](https://hackmd.io/_uploads/rylvfA621x.jpg)
     ![danshen_meitu_1-e1510802922902](https://hackmd.io/_uploads/ByeuGR6n1l.jpg)
 
-2. 乳香
+2. 乳香 (玻璃样、蜡样光泽)
     - 本品呈<span style="color:red">**长卵形滴乳状、类圆形颗粒或粘合成大小不等的不规则块状物**</span>。
-    - 大者长达 2cm（乳香珠）或 5cm（原乳香）。
+    - 大者长达 2 cm（乳香珠）或 5 cm（原乳香）。
     - <span style="color:red">**表面黄白色，半透明**</span>，被有黄白色粉末，<span style="color:red">**久存则颜色加深**</span>。
     - <span style="color:red">**质脆**</span>，遇热软化。
     - 破碎面有<span style="color:red">**玻璃样**</span>或<span style="color:red">**蜡样光泽**</span>。
@@ -47,7 +47,7 @@
     ![v2-0569bb8716d671fe439bbc22802cb2b4_1440w](https://hackmd.io/_uploads/B16INAp31g.jpg)
     ![v2-e584fbb7493255720296a3c69b39f7b4_1440w](https://hackmd.io/_uploads/HJHP4062kx.jpg)
 
-3. 厚朴(<span style="color:red">**小指甲**</span>)
+3. 厚朴(<span style="color:red">**小指甲、氣香**</span>)
     - 幹皮：呈<span style="color:red">**捲筒狀或雙捲筒狀**</span>，長 30 ~ 35 cm，厚 2 ~ 7 mm，習稱<span style="color:red">**筒朴**</span>；近根部的幹皮一端展開如喇叭口，習稱<span style="color:red">**靴筒朴**</span>。外表面灰棕色或灰褐色，粗糙，栓皮呈<span style="color:red">**鱗片狀**</span>，較易剝落，有<span style="color:red">**明顯的橢圓形皮孔和縱皺紋**</span>，<span style="color:red">**刮去栓皮者顯黃棕色；內表面紫棕色或深紫褐色**</span>，具細密縱紋，劃之顯油痕。質堅硬，不易折斷。<span style="color:red">**斷面顆粒性**</span>，外層灰棕色，內層紫褐色或棕色，有油性，有的可見多數小亮星。氣香，味辛辣，微苦。
     - 根皮 (根朴) ：為主根及支根的皮，厚 3 ~ 5 mm，形狀不一，有<span style="color:red">**捲筒狀、片塊狀、羊耳狀**</span>等；細小很皮形彎曲如雞腸，習稱<span style="color:red">**雞腸朴**</span>。<span style="color:red">**外表面灰黃色或灰褐色色**</span>。質稍堅硬，較易折斷，斷面纖維性。
     - 枝皮 (枝朴) ：呈<span style="color:red">**單筒狀**</span>，長 10 ~ 20 cm，厚 1 ~ 2 mm。<span style="color:red">**外表面灰褐色，內表面黃棕色**</span>。質脆，易折斷，斷面纖維性。
@@ -56,7 +56,7 @@
     ![images](https://hackmd.io/_uploads/r1RJ8Rp3yl.jpg)
     ![download](https://hackmd.io/_uploads/SkDWI0a3ke.jpg)
 
-4. 吳茱萸
+4. 吳茱萸 (五角狀扁球形)
     - 果實呈<span style="color:red">**五角狀扁球形**</span>
     - 直徑 2 ~ 5 mm
     - <span style="color:red">**表面暗黃綠色至褐色，粗糙**</span>，有點狀突起或凹下的油點。
@@ -71,9 +71,9 @@
     ![c27-06](https://hackmd.io/_uploads/Byv6_AanJx.jpg)
     ![images](https://hackmd.io/_uploads/BJsXK0ahJx.jpg)
 
-5. 土茯苓
+5. 土茯苓 (薄片、富粉質、邊緣淡紅棕色或類黃白色)
     - 乾燥根莖為<span style="color:red">**不規則塊狀**</span>，略呈<span style="color:red">**扁圓柱形**</span>而<span style="color:red">**彎曲不直**</span>，<span style="color:red">**多分枝**</span>，<span style="color:red">**有結節狀隆起**</span>
-    - 長約5~ 15cm，直徑約2~5cm
+    - 長約5 ~ 15cm，直徑約2 ~ 5cm
     - <span style="color:red">**表面土棕色或棕色，粗糙**</span>，常有刀傷切口及側根殘餘部分，上端具莖痕；
     - 質堅硬，不易折斷，<span style="color:red">**斷面粗糙，有粉性，淡棕色**</span>
     - 氣微，味甘淡。
@@ -85,7 +85,7 @@
     ![image](https://hackmd.io/_uploads/BJoV3AT2Jl.png)
     ![B00015](https://hackmd.io/_uploads/Hy6qsR6n1l.jpg)
 
-6. 地骨皮
+6. 地骨皮 (外灰黃粗糙、內黃白較平坦、有錯雜的縱裂紋)
     - 乾燥根皮為<span style="color:red">**短小的筒狀或槽狀卷片**</span>
     - 大小不一，一般長 3 ~ 10 cm，寬 0.6 ~ 1.5 cm，厚約 3 mm。
     - <span style="color:red">**外表面灰黃色或棕黃色，粗糙**</span>，有錯雜的縱裂紋，易剝落。
@@ -122,7 +122,7 @@
     ![download](https://hackmd.io/_uploads/S1hulJA3kl.jpg)
     ![download](https://hackmd.io/_uploads/Hkktl1A2Jl.jpg)
 
-9. 大腹皮  (<span style="color:red">**大指甲**</span>)
+9. 大腹皮  (<span style="color:red">**大指甲**</span>、 乾燥檳榔的果皮)
     - 檳榔的<span style="color:red">**乾燥果皮**</span>
     - 略呈<span style="color:red">**橢圓形或長卵形瓢狀**</span>，長 4 ~ 7 cm，寬 2 ~ 3.5 cm，厚 0.2 ~ 0.5 cm。 
     - <span style="color:red">**外果皮深棕色至近黑色**</span>，具<span style="color:red">**不規則的縱皺紋及隆起的橫紋**</span>
@@ -137,7 +137,7 @@
     ![download](https://hackmd.io/_uploads/By8zZ1R3Jg.jpg)
     ![images](https://hackmd.io/_uploads/SJpzW1C21x.jpg)
 
-10. 大黃
+10. 大黃 (表面黃棕色至紅棕色、觸之有砂粒感)
     - 本品呈<span style="color:red">**類圓柱形、圓錐形、卵圓形或不規則塊狀**</span>，長 3 ~ 17 cm，直徑 3 ~ 10 cm。
     - 除盡外皮者<span style="color:red">**表面黃棕色至紅棕色**</span>，有的可見<span style="color:red">**類白色網狀紋理及星點**</span> (異型維管束) 散在，殘留的<span style="color:red">**外皮棕褐色**</span>，多<span style="color:red">**具繩孔及粗皺紋**</span>。
     - 質堅實，有的中心稍鬆軟，<span style="color:red">**斷面淡紅棕色或黃棕色，顯顆粒性**</span>；
