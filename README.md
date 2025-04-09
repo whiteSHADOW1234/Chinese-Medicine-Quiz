@@ -111,10 +111,10 @@
 
 8. 地龍
     - 呈<span style="color:red">**長條狀薄片**</span>，<span style="color:red">**彎曲**</span>，<span style="color:red">**邊緣略卷**</span>，長15 ~ 20cm，寬1 ~ 2cm。
-    - <span style="color:red">**全體具環節，背部棕褐色至紫灰色，腹部淺黃棕色**</span>；第14~16環節為生殖帶，習稱“白頸”，較光亮。
+    - <span style="color:red">**全體具環節，背部棕褐色至紫灰色，腹部淺黃棕色**</span>；第14 ~ 16環節為生殖帶，習稱“白頸”，較光亮。
     - 體前端稍尖，尾端鈍圓，剛毛圈粗糙而硬，色稍淺。
-    - 雄生殖孔在第18節腹側剛毛圈一小孔突上，外緣有數環繞的淺皮褶，內側剛毛圈隆起，前面兩邊有橫排 (一排或二排) 小乳突，每邊10~20個不等。
-    - 受精囊孔2對，位於7/8至8/9環節間一橢圓形突起上，約占節周5/11。
+    - 雄生殖孔在第 18 節腹側剛毛圈一小孔突上，外緣有數環繞的淺皮褶，內側剛毛圈隆起，前面兩邊有橫排 (一排或二排) 小乳突，每邊10 ~ 20個不等。
+    - 受精囊孔 2 對，位於 7/8 至 8/9 環節間一橢圓形突起上，約占節周 5/11。
     - <span style="color:red">**體輕，略呈革質，不易折斷**</span>。氣腥，味微鹹。
 
     ![481669789_659338393421179_3742881011071809272_n](https://hackmd.io/_uploads/S1L-lyR3Jl.jpg)
@@ -162,14 +162,14 @@
     ![images](https://hackmd.io/_uploads/H1d0wv02kl.jpg)
     ![images](https://hackmd.io/_uploads/HkcCwDRnyg.jpg)
 
-12. 山楂
+12. 山楂 (餅狀、表面棕色至棕紅色 & 棕黃星點錯落、聞之微酸)
     - <span style="color:red">**果實較小，類球形**</span>，直徑 0.8 ~ 1.4 cm，有的壓成<span style="color:red">**餅狀**</span>。
     - <span style="color:red">**表面棕色至棕紅色，並有細密皺紋**</span>，頂端凹陷，有花萼殘跡，基部有果梗或已脫落。
 
     ![B00203](https://hackmd.io/_uploads/HJHxvKRnkg.jpg)
     ![仙楂](https://hackmd.io/_uploads/rJwZPK031g.jpg)
     
-13. 山藥
+13. 山藥 (表面光滑，白色或黃白色、斷面較平滑)
     - 略呈<span style="color:red">**圓柱形，彎曲而稍扁**</span>，長 15 ~ 30 cm，直徑 1.5 ~ 6 cm。
     - 表面<span style="color:red">**黃白色或淡黃色**</span>，有<span style="color:red">**縱溝、縱皺紋及鬚根痕**</span>，偶有<span style="color:red">**淺棕色外皮**</span>殘留。
     - 體重，質堅實，不易折斷，<span style="color:red">**斷面白色，粉性**</span>。無臭，味淡、微酸，嚼之發粘。
