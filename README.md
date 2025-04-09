@@ -351,7 +351,7 @@
     ![images](https://hackmd.io/_uploads/SkUA35CnJe.jpg)
     ![download](https://hackmd.io/_uploads/Sk30nc031e.jpg)
 
-27. 玄蔘
+27. 玄蔘 (斷面黑色、氣特異似焦糖)
     - <span style="color:red">**根類圓柱形，中間略粗或上粗下細，有的微彎曲**</span>，長 6 ~ 20 cm，直徑 1 ~ 3 cm。
     - <span style="color:red">**表面灰黃色或灰褐色，有不規則的縱溝、橫向皮孔及稀疏的橫裂紋和鬚根痕**</span>。
     - 質堅實，不易折斷，<span style="color:red">**斷面黑色，微有光澤**</span>。
@@ -364,7 +364,7 @@
     ![download](https://hackmd.io/_uploads/HyMc69Ahkg.jpg)
     ![images](https://hackmd.io/_uploads/rkzopcCh1g.jpg)
 
-28. 甘草
+28. 甘草 (表面紅棕色或灰棕色、斷面略顯纖維性 & 黃白色 & 粉性、氣微，味甜)
     - <span style="color:red">**圓柱形**</span>，外皮鬆緊不一。
     - <span style="color:red">**表面紅棕色或灰棕色，具顯著的縱皺紋、溝紋、皮孔及稀疏的細根痕**</span>。
     - 質堅實，<span style="color:red">**斷面略顯纖維性，黃白色，粉性**</span>。
@@ -379,7 +379,7 @@
     ![images](https://hackmd.io/_uploads/HJ0Sfj02kx.jpg)
     ![images](https://hackmd.io/_uploads/HyX8MoCh1l.jpg)
 
-29. 當歸
+29. 當歸 (斷面黃白色、形成層環黃棕色、氣味濃)
     - 全歸長<span style="color:red">**略呈圓柱形**</span>，<span style="color:red">**下部有支根**</span> 3 ~ 5 條或更多，長 15 ~ 25 cm。
     - 外皮細密，<span style="color:red">**表面黃棕色至棕褐色，具縱皺紋及橫長皮孔**</span>。
     - 根頭 (歸頭) 直徑 1.5 ~ 4 cm，具<span style="color:red">**環紋**</span>，上端圓鈍，有紫色或黃綠色的莖及葉鞘的殘基；主根 (歸身) <span style="color:red">**表面凹凸不平**</span>；支根 (歸尾) 直徑 0.3 ~ 1 cm，上粗下細，多<span style="color:red">**扭**</span>，有<span style="color:red">**少數鬚根痕**</span>。
@@ -397,7 +397,7 @@
     ![images](https://hackmd.io/_uploads/r1lQXsRnye.jpg)
     ![images](https://hackmd.io/_uploads/rySmXsChye.jpg)
 
-30. 白芍
+30. 白芍 (表面淡紅棕色或粉白色 & 平坦、木部放射線呈菊花心狀)
     - 乾燥根呈<span style="color:red">**圓柱形，粗細均勻而平直**</span>，長 10 ~ 20 cm，直徑 1 ~ 1.8 cm。
     - <span style="color:red">**表面淡紅棕色或粉白色，平坦，或有明顯的縱皺及鬚根痕**</span>，栓皮未除盡處有棕褐色斑痕，偶見<span style="color:red">**橫向皮孔**</span>。質堅實而重，不易折斷。
     - <span style="color:red">**斷面灰白色或微帶棕色，木部放射線呈菊花心狀，形成層環明顯**</span>。氣微，味微苦而酸。
@@ -415,7 +415,7 @@
     ![images](https://hackmd.io/_uploads/H1gV4j0hkl.jpg)
     ![a73dd7_0f4e170b00c444718e171099a1a59491~mv2](https://hackmd.io/_uploads/B12VNjRhJx.jpg)
 
-31. 益母草
+31. 益母草 (莖表面灰綠色或黃綠色、體輕、葉片灰綠色、輪傘花)
     - **鮮益母草**：
         - <span style="color:red">**幼苗期無莖，基生葉圓心形**</span>，邊緣 5 ~ 9 淺裂，每裂片有 2 ~ 3 鈍齒。
         - <span style="color:red">**花前期莖呈方柱形**</span>，上部多分枝，四面凹下成縱溝，長 30 ~ 60 cm，直徑 0.2 ~ 0.5 cm
@@ -431,7 +431,7 @@
     ![download](https://hackmd.io/_uploads/Sk-AEi0hyx.jpg)
     ![download](https://hackmd.io/_uploads/HJUANs02Jx.jpg)
 
-32. 石菖蒲
+32. 石菖蒲 (毛鱗狀葉基)
     - <span style="color:red">**根莖呈扁圓柱形，稍彎曲，常有分枝**</span>，長 3 ~ 20 cm，直徑 0.3 ~ 1 cm。
     - <span style="color:red">**表面棕褐色、棕紅色或灰黃色，粗糙，多環節**</span>，節間長 2 ~ 8 mm；上側有略呈<span style="color:red">**扁三角形的葉痕，左右交互排列**</span>，下側有<span style="color:red">**圓點狀根痕**</span>，節部有時殘留有毛鱗狀葉基。
     - 質硬脆，<span style="color:red">**折斷面纖維性，類白色或微紅色**</span>；<span style="color:red">**橫切面內皮層環明顯，可見多數"筋脈點"及棕色油點**</span>。氣芳香，味苦、微辛。
@@ -446,7 +446,7 @@
     ![images](https://hackmd.io/_uploads/Bkb4LjC2Jx.jpg)
     ![images](https://hackmd.io/_uploads/ryVEIsC3kl.jpg)
 
-33. 砂仁
+33. 砂仁 (子彈型)
     - 陽春砂、綠殼砂：
         - 呈<span style="color:red">**橢圓形或卵圓形，有不明顯的三棱**</span>，長 1.5 ~ 2 cm，直徑 1 ~ 1.5 cm。
         - <span style="color:red">**表面棕褐色，密生刺狀突起**</span>，頂端有花被殘基，基部常有果梗。
