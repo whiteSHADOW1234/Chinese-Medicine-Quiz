@@ -295,7 +295,7 @@
     ![download](https://hackmd.io/_uploads/H13pv5Ahkx.jpg)
     ![download](https://hackmd.io/_uploads/B1l0Pq0hyl.jpg)
 
-23. 烏梅
+23. 烏梅 (聞之有烏梅汁味、表面烏黑色或棕黑色 & 皺縮不平)
     - 本品呈<span style="color:red">**類環形或扁球形**</span>，直徑 1.5 ~ 3 cm。
     - <span style="color:red">**表面烏黑色或棕黑色，皺縮不平**</span>，基部有圓形果梗痕。
     - <span style="color:red">**果核堅硬，橢圓形，棕黃色，表面有凹點**</span>；<span style="color:red">**種子扁卵形，淡黃色**</span>。氣微，味極酸。
@@ -306,7 +306,7 @@
     ![download](https://hackmd.io/_uploads/HJ-mF9AnJl.jpg)
     ![images](https://hackmd.io/_uploads/BJ_NYcChyg.jpg)
 
-24. 熟地黃 (<span style="color:red">**石油**</span>)
+24. 熟地黃 (<span style="color:red">**石油**</span>、烏黑色 & 粘性大)
     - 為<span style="color:red">**不規則的塊片、碎塊**</span>，大小、厚薄不一。
     - <span style="color:red">**表面烏黑色，有光澤，粘性大**</span>。
     - 質柔軟而帶韌性，不易折斷，端面烏黑色，有光澤。味甜。
@@ -319,7 +319,7 @@
     ![download](https://hackmd.io/_uploads/ByrZ9q0n1e.jpg)
     ![images](https://hackmd.io/_uploads/ByFbc9C31l.jpg)
 
-25. 牡丹皮 (<span style="color:red">**香菇片**</span>)
+25. 牡丹皮 (<span style="color:red">**小型香菇片**</span>)
     - 呈<span style="color:red">**筒狀或半筒狀，有縱剖開的縫，略向內捲曲或張開**</span>，長 5 ~ 20 cm，直徑 0.5 ~ 1.2 cm，厚 0.1 ~ 0.4 cm。
     - <span style="color:red">**原丹皮外表面灰褐色或黃褐色**</span>，有多數橫長皮孔及細根痕，栓皮脫落處粉紅色；刮<span style="color:red">**丹皮粉紅色或淡紅色**</span>。
     - <span style="color:red">**內表面淡灰黃色或淺棕色**</span>，有明顯的細縱紋，<span style="color:red">**常見發亮的結晶**</span> (系針、柱狀牡丹酚結晶)。
