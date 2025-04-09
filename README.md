@@ -256,7 +256,7 @@
     ![download](https://hackmd.io/_uploads/SJU7rc0hyl.jpg)
     ![download](https://hackmd.io/_uploads/rJcQr5Rh1l.jpg)
 
-20. 柴胡
+20. 柴胡 (氣微濃、圓柱形普通樹枝、內部斷面黃白色)
     - 呈<span style="color:red">**圓柱形或長圓錐形**</span>，長 6 ~ 15 cm，直徑 0.3 ~ 0.8 cm。
     - <span style="color:red">**根頭膨大**</span>，頂端殘留 3 ~ 15 個莖基或短纖維狀葉基，下部分枝。
     - <span style="color:red">**表面黑褐色或淺棕色，具縱皺紋、支根痕及皮孔**</span>。
@@ -269,7 +269,7 @@
     ![download](https://hackmd.io/_uploads/SyWaS9AhJg.jpg)
     ![images](https://hackmd.io/_uploads/SyN6HcCnkl.jpg)
 
-21. 澤瀉
+21. 澤瀉 (類球形、斷面黃白色 & 粉性、聞之無味)
     - <span style="color:red">**塊莖類球形、橢圓形或卵圓形**</span>、長 2 ~ 7 cm，直徑 2 ~ 6 cm。
     - <span style="color:red">**表面黃白色或淡黃棕色**</span>，有<span style="color:red">**不規則的橫向環狀淺溝紋及多數細小突起的鬚根痕**</span>，底部有的有瘤狀芽痕。
     - 質堅實，<span style="color:red">**斷面黃白色，粉性，有多數細孔**</span>。氣微，味微苦。
