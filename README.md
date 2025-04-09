@@ -189,8 +189,8 @@
     ![images](https://hackmd.io/_uploads/HyS4cKRhkl.jpg)
     ![images](https://hackmd.io/_uploads/HyiN9t02Jx.jpg)
 
-15. 川芎 (ㄑㄩㄥ)
-    - 為<span style="color:red">**不規則結節狀拳形團塊**</span>，直徑2~7cm。
+15. 川芎 (ㄑㄩㄥ) (氣濃香，味苦 & 辛、不規則的類蝴蝶形薄片、內如顏料渲染般粘連混亂)
+    - 為<span style="color:red">**不規則結節狀拳形團塊**</span>，直徑2 ~ 7cm。
     - <span style="color:red">**表面黃褐色，粗糙皺縮**</span>，有多數平行隆起的輪節，頂端有凹陷的類圓形莖痕，下側及輪節上有<span style="color:red">**多數小瘤狀根痕**</span>。
     - 質堅實，不易折斷，<span style="color:red">**斷面黃白色或灰黃色，散有黃棕色的油室，形成層呈波狀環紋**</span>。
     - 氣濃香，味苦、辛。稍有麻舌感，微回甜。
