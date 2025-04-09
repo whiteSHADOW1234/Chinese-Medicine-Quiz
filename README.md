@@ -204,7 +204,7 @@
     ![images](https://hackmd.io/_uploads/HJpfotR3Je.jpg)
     ![images](https://hackmd.io/_uploads/HJrmitA2Jg.jpg)
 
-16. 延胡索 (**剖開的小黃球**)
+16. 延胡索 (**剖開的不規則黃色扁球形**、聞之無味、斷面有黑黃色蠟樣光澤)
     - 乾燥<span style="color:red">**塊莖**</span>，呈<span style="color:red">**不規則扁球形**</span>，直徑 1 ~ 2 cm
     - <span style="color:red">**表面黃色或褐黃色**</span>，頂端中間有略凹陷的莖痕，底部或<span style="color:red">**有疙瘩狀凸起**</span>。
     - 質堅硬而脆，<span style="color:red">**斷面黃色，角質，有蠟樣光澤**</span>。無臭，味苦。
