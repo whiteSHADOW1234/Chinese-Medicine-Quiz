@@ -16,7 +16,7 @@
 
 
 ## 常見藥材
-1. 丹蔘 (放射狀的灰黃色或黃白色木質部導管束)
+1. 丹蔘 (切片墨綠色、放射狀的灰黃色或黃白色木質部導管束、表皮棕渴色或磚紅色)
     - 根呈<span style="color:red">**圓柱形**</span>，稍彎曲
     - 表面呈<span style="color:red">**磚紅色**</span>，<span style="color:red">**粗糙**</span>
     - 具多數縱溝或皺紋，有鬚根痕
@@ -71,7 +71,7 @@
     ![c27-06](https://hackmd.io/_uploads/Byv6_AanJx.jpg)
     ![images](https://hackmd.io/_uploads/BJsXK0ahJx.jpg)
 
-5. 土茯苓 (薄片、富粉質、邊緣淡紅棕色或類黃白色)
+5. 土茯苓 (薄片如紙、富粉質、邊緣淡紅棕色或類黃白色)
     - 乾燥根莖為<span style="color:red">**不規則塊狀**</span>，略呈<span style="color:red">**扁圓柱形**</span>而<span style="color:red">**彎曲不直**</span>，<span style="color:red">**多分枝**</span>，<span style="color:red">**有結節狀隆起**</span>
     - 長約5 ~ 15cm，直徑約2 ~ 5cm
     - <span style="color:red">**表面土棕色或棕色，粗糙**</span>，常有刀傷切口及側根殘餘部分，上端具莖痕；
@@ -137,7 +137,7 @@
     ![download](https://hackmd.io/_uploads/By8zZ1R3Jg.jpg)
     ![images](https://hackmd.io/_uploads/SJpzW1C21x.jpg)
 
-10. 大黃 (表面黃棕色至紅棕色、觸之有砂粒感)
+10. 大黃 (表面黃棕色**鵝黃色**至紅棕色、觸之有砂粒感、聞之味苦、髓部寬廣)
     - 本品呈<span style="color:red">**類圓柱形、圓錐形、卵圓形或不規則塊狀**</span>，長 3 ~ 17 cm，直徑 3 ~ 10 cm。
     - 除盡外皮者<span style="color:red">**表面黃棕色至紅棕色**</span>，有的可見<span style="color:red">**類白色網狀紋理及星點**</span> (異型維管束) 散在，殘留的<span style="color:red">**外皮棕褐色**</span>，多<span style="color:red">**具繩孔及粗皺紋**</span>。
     - 質堅實，有的中心稍鬆軟，<span style="color:red">**斷面淡紅棕色或黃棕色，顯顆粒性**</span>；
@@ -170,6 +170,7 @@
     ![仙楂](https://hackmd.io/_uploads/rJwZPK031g.jpg)
     
 13. 山藥 (表面光滑，白色或黃白色、斷面較平滑)
+    - 又名淮 (ㄏㄨㄞˊ) 山
     - 略呈<span style="color:red">**圓柱形，彎曲而稍扁**</span>，長 15 ~ 30 cm，直徑 1.5 ~ 6 cm。
     - 表面<span style="color:red">**黃白色或淡黃色**</span>，有<span style="color:red">**縱溝、縱皺紋及鬚根痕**</span>，偶有<span style="color:red">**淺棕色外皮**</span>殘留。
     - 體重，質堅實，不易折斷，<span style="color:red">**斷面白色，粉性**</span>。無臭，味淡、微酸，嚼之發粘。
@@ -190,7 +191,7 @@
     ![images](https://hackmd.io/_uploads/HyS4cKRhkl.jpg)
     ![images](https://hackmd.io/_uploads/HyiN9t02Jx.jpg)
 
-15. 川芎 (ㄑㄩㄥ) (氣濃香，味苦 & 辛、不規則的類蝴蝶形薄片、內如顏料渲染般粘連混亂)
+15. 川芎 (ㄑㄩㄥ) (**氣濃香，味苦** & 辛、不規則的類蝴蝶形 **(核桃邊緣)** 薄片、內如顏料渲染般粘連混亂)
     - 為<span style="color:red">**不規則結節狀拳形團塊**</span>，直徑2 ~ 7cm。
     - <span style="color:red">**表面黃褐色，粗糙皺縮**</span>，有多數平行隆起的輪節，頂端有凹陷的類圓形莖痕，下側及輪節上有<span style="color:red">**多數小瘤狀根痕**</span>。
     - 質堅實，不易折斷，<span style="color:red">**斷面黃白色或灰黃色，散有黃棕色的油室，形成層呈波狀環紋**</span>。
@@ -232,7 +233,7 @@
     ![download](https://hackmd.io/_uploads/ryizM9C2yg.jpg)
     ![images](https://hackmd.io/_uploads/BJ77z5A2Jg.jpg)
 
-18. #### 木香 (**表皮深褐黑色 & 內部坑坑巴巴**、氣芳香濃烈、斷面乾枯朽)
+18. #### 木香 (**表皮深褐黑色 & 內部坑坑巴巴 (空包洞)**、氣芳香濃烈、斷面乾枯朽)
     - <span style="color:red">**根圓柱形、平圓柱形**</span>，長 5 ~ 15 cm，直徑 0.5 ~ 5.5 cm。
     - <span style="color:red">**表面黃棕色、灰褐色或棕褐色**</span>，栓皮大多已除去，有明縱溝及側根痕，有時可見<span style="color:red">**網狀紋理**</span>。
     - 質堅硬，難折斷，<span style="color:red">**斷面稍平坦，灰黃色、灰褐色或棕褐色，散有深褐色油室小點，形成層環棕色，有放射狀紋理，老根中央多枯朽**</span>。
@@ -334,7 +335,7 @@
     ![images](https://hackmd.io/_uploads/ryeOnqA2yg.jpg)
     ![images](https://hackmd.io/_uploads/rJY_n9031l.jpg)
 
-26. #### 獨活 (**表皮淺咖啡黃色 & 內部坑坑巴巴**、味道濃烈、)
+26. #### 獨活 (**表皮淺咖啡黃色 & 內部坑坑巴巴**、味道濃烈、中間有明顯的一圈、表面棕褐色、木質部較深(核桃木色)、內有白圈)
     - <span style="color:red">**根頭及主根粗短，略呈圓柱形**</span>，長 1.5 ~ 4 cm，直徑 1.5 ~ 3.5 cm，<span style="color:red">**下部有數條彎曲的支根**</span>，長 12 ~ 30 cm，直徑 0.5 ~ 1.5 cm。
     - <span style="color:red">**表面粗糙，灰棕色，具不規則縱皺紋及橫裂紋**</span>，並有多數橫長皮孔及細根痕
     - <span style="color:red">**根頭部有環紋**</span>，具多殖環狀葉柄痕，中內為凹陷的莖痕。
@@ -351,7 +352,7 @@
     ![images](https://hackmd.io/_uploads/SkUA35CnJe.jpg)
     ![download](https://hackmd.io/_uploads/Sk30nc031e.jpg)
 
-27. 玄蔘 (斷面黑色、氣特異似焦糖)
+27. 玄蔘 (斷面黑色、氣特異似焦糖、生津止渴)
     - <span style="color:red">**根類圓柱形，中間略粗或上粗下細，有的微彎曲**</span>，長 6 ~ 20 cm，直徑 1 ~ 3 cm。
     - <span style="color:red">**表面灰黃色或灰褐色，有不規則的縱溝、橫向皮孔及稀疏的橫裂紋和鬚根痕**</span>。
     - 質堅實，不易折斷，<span style="color:red">**斷面黑色，微有光澤**</span>。
@@ -385,6 +386,7 @@
     - 根頭 (歸頭) 直徑 1.5 ~ 4 cm，具<span style="color:red">**環紋**</span>，上端圓鈍，有紫色或黃綠色的莖及葉鞘的殘基；主根 (歸身) <span style="color:red">**表面凹凸不平**</span>；支根 (歸尾) 直徑 0.3 ~ 1 cm，上粗下細，多<span style="color:red">**扭**</span>，有<span style="color:red">**少數鬚根痕**</span>。
     - 質柔韌，<span style="color:red">**斷面黃白色或淡黃棕色**</span>，皮部厚，有裂隙及多數棕色點狀分泌腔，<span style="color:red">**木部色較淡，形成層環黃棕色**</span>。
     - 木質部色較淡；<span style="color:red">**根莖部分斷面中心通常有髓和空腔**</span>。
+    - 歸身越大，品項越好。 (噴米酒可達成)
 
     ![download](https://hackmd.io/_uploads/r1rWQoR31g.jpg)
     ![download](https://hackmd.io/_uploads/Skw-XoAh1g.jpg)
@@ -431,7 +433,7 @@
     ![download](https://hackmd.io/_uploads/Sk-AEi0hyx.jpg)
     ![download](https://hackmd.io/_uploads/HJUANs02Jx.jpg)
 
-32. 石菖蒲 (毛鱗狀葉基)
+32. 石菖蒲 (毛鱗狀葉基、內部切片白灰色、一節一節的)
     - <span style="color:red">**根莖呈扁圓柱形，稍彎曲，常有分枝**</span>，長 3 ~ 20 cm，直徑 0.3 ~ 1 cm。
     - <span style="color:red">**表面棕褐色、棕紅色或灰黃色，粗糙，多環節**</span>，節間長 2 ~ 8 mm；上側有略呈<span style="color:red">**扁三角形的葉痕，左右交互排列**</span>，下側有<span style="color:red">**圓點狀根痕**</span>，節部有時殘留有毛鱗狀葉基。
     - 質硬脆，<span style="color:red">**折斷面纖維性，類白色或微紅色**</span>；<span style="color:red">**橫切面內皮層環明顯，可見多數"筋脈點"及棕色油點**</span>。氣芳香，味苦、微辛。
@@ -464,7 +466,7 @@
     ![download](https://hackmd.io/_uploads/SyBDDsA2yx.jpg)
     ![download](https://hackmd.io/_uploads/HJqDws0nJl.jpg)
 
-34. #### 羌活 (**鬚根痕**、聞之有清新感、表面棕褐色)
+34. #### 羌活 (**鬚根痕**、聞之有清新感、表面棕褐色、木質部較淺、內有白圈)
     - 蠶羌：又名：螺絲羌。為<span style="color:red">**乾燥的根莖部，形態似蠶**</span>。呈<span style="color:red">**圓柱狀或略彎曲**</span>，長約 4 ~ 10 cm，直徑約 1 ~ 2 cm。頂端有莖葉殘基。
         - <span style="color:red">**表面棕褐色，有多數緊密而隆起的環節**</span>。節上密生疣狀突起的鬚根痕。
         - 質輕鬆易折斷，<span style="color:red">**斷面不齊，有明顯的菊花紋和多數裂隙，皮部棕紅色；木質部淡黃色，中央有黃白色髓，均有朱砂點 (油管)**</span> 。具特殊香氣，味微苦而麻。
@@ -518,7 +520,7 @@
     ![download](https://hackmd.io/_uploads/B1dMpZk6Jl.jpg)
     ![download](https://hackmd.io/_uploads/rJ2faZJ61x.jpg)
 
-38. #### 蒼朮 (**小 & 連節狀 & 鬚根**)
+38. #### 蒼朮 (**小 & 連節狀 & 鬚根**) 切面白，內有散落的紅棕色班點
     - 呈<span style="color:red">**不規則連珠狀或結節狀圓柱形，略彎曲，偶有分枝**</span>，長 3 ~ 10 cm，直徑 1 ~ 2 cm。
     - <span style="color:red">**表面灰棕色，有皺紋、橫曲紋及殘留鬚根**</span>，頂端具莖痕或殘留莖基。
     - 質堅實，<span style="color:red">**斷面黃白色或灰白色，散有多數橙黃色或棕紅色油室**</span>，暴露稍久，可析出<span style="color:red">**白色細針狀結晶**</span>。氣香特異，味微甘、辛、苦。
@@ -558,7 +560,7 @@
     ![download](https://hackmd.io/_uploads/rkkfGex6kg.jpg)
     ![download](https://hackmd.io/_uploads/HyMMGgl61e.jpg)
 
-41. 通草 (**口哨糖**、無臭無味、中間有半透明的薄膜)
+41. 通草 (**保麗龍口哨糖**、無臭無味、中間有半透明的薄膜)
     - 莖賄呈<span style="color:red">**圓柱形**</span>，長 20 ~ 40 cm，直徑 1 ~ 2.5 cm。
     - <span style="color:red">**表面白色或淡黃色，有淺縱溝紋**</span>。
     - 體輕，質鬆軟，稍有彈性，易折斷，<span style="color:red">**斷面平坦，顯銀白色光澤**</span>
@@ -634,7 +636,7 @@
     ![images](https://hackmd.io/_uploads/SkD_Oex6yl.jpg)
     ![images](https://hackmd.io/_uploads/rycOuelp1l.jpg)
 
-47. #### 黃芩 (**小 & 外圈黑土黃，內亮土黃**)
+47. #### 黃芩 (**小 & 外圈黑土黃，內亮土黃**) 新鮮的切片偏黃綠色
     - 該品呈<span style="color:red">**圓錐形，扭曲**</span>，長 8 ~ 25 cm，直徑 1 ~ 3 cm。
     - <span style="color:red">**表面棕黃色或深黃色，有稀疏的疣狀細根痕**</span>，<span style="color:red">**上部較粗糙**</span>，有扭曲的縱皺或不規則的網紋，下部有順紋和細皺。
     - 質硬而脆，易折斷，<span style="color:red">**斷面黃色，中間紅棕色**</span>，通稱子芩，以清火養陰為主
@@ -665,6 +667,7 @@
     - 直根<span style="color:red">**圓柱形、有的有分枝**</span>，上端較粗，長 30 ~ 90 釐米，直徑 1 ~ 3.5 釐米
     - <span style="color:red">**表面縱皺色淡棕黃色或淡棕褐色**</span>，有不整齊的縱皺紋或縱溝質，<span style="color:red">**硬而韌有粉性**</span>，<span style="color:red">**皮部黃白較疏鬆**</span>；<span style="color:red">**木部菊花紋理狀**</span>，氣似豆腥味微甜。
     - <span style="color:red">**老根中心偶有枯朽狀**</span>，黑褐色或呈空洞。氣微，味微甜，嚼之微有豆腥味。
+    - 內部環圈顏色越深，品項越好
 
     ![download](https://hackmd.io/_uploads/ry6_qxeT1e.jpg)
     ![download](https://hackmd.io/_uploads/rygFqgg6kg.jpg)
@@ -674,7 +677,7 @@
     ![download](https://hackmd.io/_uploads/SJM9qxgpyx.jpg)
     ![images](https://hackmd.io/_uploads/H15cclepyg.jpg)
 
-50. 黃蓮 (內部鮮黃色或橙黃色、形如雞爪)
+50. 黃蓮 (內部鮮金黃色或橙黃色、形如雞爪) 黃芩則是黃綠色
     - 味連：
         - 藥材多數<span style="color:red">**聚集成簇，常常彎曲，形如雞爪**</span>，其單枝根莖長 3 ~ 6 cm，直徑 0.3 ~ 0.8 cm。
         - <span style="color:red">**表面粗糙，有不規則結節狀隆起**</span>，有鬚根及鬚根殘基。
@@ -698,11 +701,16 @@
 
 
 ## 易混淆藥材
-![images](easy_misclassify/20250327_033547.png)
-![images](easy_misclassify/20250327_034357.png)
-![images](easy_misclassify/20250327_044127.png)
+![images](easy_misclassify\20250327_033547.png)
+![images](easy_misclassify\20250327_034357.png)
+![images](easy_misclassify\20250327_044127.png)
 - [木香](#木香-表皮深褐色--內部坑坑巴巴) 表皮深褐色、內部坑坑巴巴
 - [獨活](#獨活-表皮淺咖啡色--內部坑坑巴巴) 表皮淺咖啡色、內部坑坑巴巴
-- [黃芩](#黃芩-小--黃--木片) 小、黃、木片、不規則
+- [黃芩](#黃芩-小--黃--木片) 小、黃綠、木片、不規則
 - [蒼朮](#蒼朮-小--不規則--鬚根) 小、不規則、鬚根
 - [羌活](#羌活-鬚根痕) 鬚根痕
+
+- 黃耆 (斷面較白) VS. 甘草 (斷面較黃)
+- 羌活 VS. 獨活
+- 黃蓮 (斷面金黃) VS. 黃芩 (斷面黃綠)
+- 石菖溥 (表皮一節一節，飲片寬大) VS. 柴胡
