@@ -1,4 +1,5 @@
 # Chinese Medicines' Cheetsheet
+Dive into the world of traditional Chinese medicine with Chinese‑Medicine‑Quiz, a lightweight, image‑based quiz app designed to help students and enthusiasts quickly learn to recognize commonly seen Chinese herbs. Leveraging a simple—but powerful—image classification model, this tool displays herb photos and challenges you to choose the correct name, making study sessions both interactive and engaging. Check out the online testing website and put your herb‑identification skills to the test right now at [HERE](https://chinese‑medcine‑image‑classfication.vercel.app/)—happy quizzing!
 ## Content
 - [藥方符號](#藥方符號)
 - [常見藥材](#常見藥材)
